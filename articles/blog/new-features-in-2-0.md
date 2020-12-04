@@ -64,7 +64,7 @@ Finally, I'm hosting all my blog content 🤩
 
 ## Edit the Articles
 
-As you know I live life on the edge and test in production 😂. So oftentimes, my articles contain a few typos. I’m very fortunate that many of YOU will let me know when I made an error. You will either email or DM me. And then I’ll make the fix. Well, I wanted to make the process even easier...for me 😂. At the bottom of all my articles, there is an "Edit this post" link.
+As you know I live life on the edge and test in production 😂. So often times, my articles contain a few typos. I’m very fortunate that many of YOU will let me know when I made an error. You will either email or DM me. And then I’ll make the fix. Well, I wanted to make the process even easier...for me 😂. At the bottom of all my articles, there is an "Edit this post" link.
 
 <ArticleImage name="edit-post" no-download :max-width="400" />
 
